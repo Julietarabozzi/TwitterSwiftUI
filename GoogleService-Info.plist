@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSCameraUsageDescription</key>
+	<string>TwitterSwiftUI needs acces to your camera to take photos.</string>
+	<key>CLIENT_ID</key>
+	<string>426677649578-cqc6c0so0j69ufa9ult1l2kt6jd4goq6.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.426677649578-cqc6c0so0j69ufa9ult1l2kt6jd4goq6</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBhz2xqH_TmClBCyfVM4fnEIujks50SqNI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>426677649578</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.JuliArtekium.TwitterSwiftUI</string>
+	<key>PROJECT_ID</key>
+	<string>twitterswiftui-b5960</string>
+	<key>STORAGE_BUCKET</key>
+	<string>twitterswiftui-b5960.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:426677649578:ios:803ff0b07e78e3799910d3</string>
+</dict>
+</plist>
